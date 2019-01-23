@@ -1,4 +1,4 @@
-# Switch Xenoblade Chronicles 2 SXOS Cheat
+# Switch Xenoblade Chronicles 2 Ver.2.0.2 SXOS Cheat
 by 露易娘 Ruimusume</br>
 日站博客：http://ruimusume.blog.jp/</br>
 微博：https://weibo.com/ruisan</br>
