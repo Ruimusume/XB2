@@ -2,7 +2,7 @@
 [Switch 异度之刃2 Ver.2.0.2 金手指]
 [By露易娘原创 weibo/ruisan或ruimusume.blog.jp]
 
-[(按L)连锁攻击条MAX]
+[按L 连锁槽MAX]
 80000200
 580F0000 00C284D8
 780F0000 000E98F0
