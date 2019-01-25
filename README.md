@@ -7,8 +7,15 @@ Switch ゼノブレイド2 SXOS チートコード</br>
 Switch Xenoblade Chronicles 2 SXOS Cheats</br>
 Switch 异度之刃2 SXOS 金手指
 
+代码日版美版都公用</br>
+Both JPN and USA versions of this cheats code can be used
+
+ADENA-JPN</br>
 TID:0100F3400332C000</br>
-BID:e3938fa78579c1ca
+BID:e3938fa78579c1ca</br>
+ADENB-USA</br>
+TID:0100E95004038000</br>
+BID:D007651BC7C6A51E</br>
 
 LV位置+2=HP位置</br>
 HP位置+2=全属性值位置</br>
