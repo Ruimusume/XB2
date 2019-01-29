@@ -17,7 +17,7 @@ ADENB-USA</br>
 TID:0100E95004038000</br>
 BID:d007651bc7c6a51e</br>
 
-English translation</br>
+English Translation</br>
 Thank you for "<a href="https://team-xecuter.com/community/members/74865/">v0idwards@team-xecuter</a>" translation</br>
 https://team-xecuter.com/community/threads/128199/page-2#post-999833
 
