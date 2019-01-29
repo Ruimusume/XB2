@@ -17,6 +17,10 @@ ADENB-USA</br>
 TID:0100E95004038000</br>
 BID:d007651bc7c6a51e</br>
 
+English translation</br>
+Thank you for "v0idwards@team-xecuter.com" translation 
+https://team-xecuter.com/community/threads/128199/page-2#post-999833
+
 LV位置+2=HP位置</br>
 HP位置+2=全属性值位置</br>
 全属性值位置+24=奖励经验位置</br>
