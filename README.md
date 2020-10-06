@@ -5,7 +5,7 @@ by 露易娘 Ruimusume</br>
 
 Switch ゼノブレイド2 SXOS チートコード</br>
 Switch Xenoblade Chronicles 2 SXOS Cheats</br>
-Switch 异度之刃2 SXOS 金手指
+Switch 异度之刃2 SXOS 金手指</br>
 <img src="https://i.imgur.com/vqhIzOP.jpg" alt="Xenoblade Chronicles 2"/>
 代码日版美版都公用</br>
 Both JPN and USA versions of this cheats code can be used
